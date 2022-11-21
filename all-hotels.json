@@ -23,47 +23,56 @@
       [
         "Executive Single Room",
         "1",
-        "2000/-"
+        "2000/-",
+        "<button>Select Now</button>"
       ],
       [
         "Premium Single Room",
         "1",
-        "2200/-"
+        "2200/-",
+        "<button>Select Now</button>"
       ],
       [
         "Regular Double Room",
         "2",
-        "2500/-"
+        "2500/-",
+        "<button>Select Now</button>"
       ],
       [
         "Superior Twin",
         "2.1",
-        "3000/-"
+        "3000/-",
+        "<button>Select Now</button>"
       ],
       [
         "Executive Double Room",
         "2.2",
-        "3300/-"
+        "3300/-",
+        "<button>Select Now</button>"
       ],
       [
         "Regular Couple Room",
         "2.5",
-        "2500/-"
+        "2500/-",
+        "<button>Select Now</button>"
       ],
       [
         "Regular Family Room",
         "5",
-        "3200/-"
+        "3200/-",
+        "<button>Select Now</button>"
       ],
       [
         "Executive Family Room",
         "5.1",
-        "3500/-"
+        "3500/-",
+        "<button>Select Now</button>"
       ],
       [
         "Presidential Room",
         "8",
-        "5000/-"
+        "5000/-",
+        "<button>Select Now</button>"
       ]
     ],
     "fitnessCenter": "yes",
