@@ -66,6 +66,14 @@
         "5000/-"
       ]
     ],
+    "roomDetails": {
+      "hotelId": 1,
+      "executiveSingleRoom": [
+        "Executive Single Room",
+        "1",
+        "2000"
+      ]
+    },
     "fitnessCenter": "yes",
     "thumbImg": "https://i.ibb.co/WK2LjKn/long-beach.jpg"
   },
