@@ -21,46 +21,55 @@
     "stars": 4,
     "rooms": [
       [
+        1,
         "Executive Single Room",
         "1",
         "2000/-"
       ],
       [
+        1,
         "Premium Single Room",
         "1",
         "2200/-"
       ],
       [
+        1,
         "Regular Double Room",
         "2",
         "2500/-"
       ],
       [
+        1,
         "Superior Twin",
         "2.1",
         "3000/-"
       ],
       [
+        1,
         "Executive Double Room",
         "2.2",
         "3300/-"
       ],
       [
+        1,
         "Regular Couple Room",
         "2.5",
         "2500/-"
       ],
       [
+        1,
         "Regular Family Room",
         "5",
         "3200/-"
       ],
       [
+        1,
         "Executive Family Room",
         "5.1",
         "3500/-"
       ],
       [
+        1,
         "Presidential Room",
         "8",
         "5000/-"
@@ -91,31 +100,37 @@
     "stars": 3,
     "rooms": [
       [
+        2,
         "Executive Single Room",
         "1",
         "2000/-"
       ],
       [
+        2,
         "Regular Double Room",
         "2",
         "2500/-"
       ],
       [
+        2,
         "Superior Twin",
         "2.1",
         "3000/-"
       ],
       [
+        2,
         "Regular Couple Room",
         "2.5",
         "2500/-"
       ],
       [
+        2,
         "Regular Family Room",
         "5",
         "3200/-"
       ],
       [
+        2,
         "Executive Family Room",
         "5.1",
         "3500/-"
@@ -146,21 +161,25 @@
     "stars": 0,
     "rooms": [
       [
+        3,
         "Executive Single Room",
         "1",
         "700/-"
       ],
       [
+        3,
         "Regular Double Room",
         "2",
         "1200/-"
       ],
       [
+        3,
         "Executive Double Room",
         "2.2",
         "1500/-"
       ],
       [
+        3,
         "Regular Family Room",
         "5",
         "2200/-"
