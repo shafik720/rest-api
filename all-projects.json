@@ -69,7 +69,7 @@
       "id": 6,
       "github": "https://github.com/shafik720/currency-converter",
       "liveSite": "https://currency-converter-by-shafiq.netlify.app/",
-      "projectName": "Language Translator App",
+      "projectName": "Currency Converter",
       "desc": "This site will convert from any currency to any currency. The currency rate is always updated via api",
       "technology": [
         "Html",
