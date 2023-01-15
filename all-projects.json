@@ -4,7 +4,7 @@
       "github": "https://github.com/shafik720/Photographer-Website-Portfolio---E-commerce--with-React",
       "liveSite": "https://photographer-portfolio-shafik.netlify.app/",
       "projectName": "Photographer's Website (Portfolio + E-commerce)",
-      "desc": "This is a website where a photographer portfolio is displayed alongside with e-commerce functionality. <br />\n        This site is fully responsive. It's made with React Js, Firebase Authentication, React Bootstrap. For storing user cart information i have used Local Storage.",
+      "desc": "This is a website where a photographer portfolio is displayed alongside with e-commerce functionality.\n        This site is fully responsive. It's made with React Js, Firebase Authentication, React Bootstrap. For storing user cart information i have used Local Storage.",
       "technology": [
         "Html",
         "Css",
