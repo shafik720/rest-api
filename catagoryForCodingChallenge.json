@@ -1,25 +1,470 @@
 [
-  {"deta": [1,"Manufacturing"]},
-  {"deta": [19,"\u00A0 \u00A0 \u00A0 \u00A0 Construction materials"]},
-  {"deta": [18,"\u00A0 \u00A0 \u00A0 \u00A0 Electronics and Optics"]},
-  {"deta": [6,"\u00A0 \u00A0 \u00A0 \u00A0 Food and Beverage"]},
-  {"deta": [342,"\u00A0 \u00A0 \u00A0 \u00A0 \u00A0 \u00A0 \u00A0 \u00A0 Bakery & confectionery products"]},
-  {"deta": [43,"\u00A0 \u00A0 \u00A0 \u00A0 \u00A0 \u00A0 \u00A0 \u00A0 Beverages"]},
-  {"deta": [42,"\u00A0 \u00A0 \u00A0 \u00A0 \u00A0 \u00A0 \u00A0 \u00A0 Fish & fish products "]},
-  {"deta": [40,"\u00A0 \u00A0 \u00A0 \u00A0 \u00A0 \u00A0 \u00A0 \u00A0 Meat & meat products"]},
-  {"deta": [39,"\u00A0 \u00A0 \u00A0 \u00A0 \u00A0 \u00A0 \u00A0 \u00A0 Milk & dairy products"]},
-  {"deta": [437,"\u00A0 \u00A0 \u00A0 \u00A0 \u00A0 \u00A0 \u00A0 \u00A0 Other"]},
-  {"deta": [378,"\u00A0 \u00A0 \u00A0 \u00A0 \u00A0 \u00A0 \u00A0 \u00A0 Sweets & snack food"]},
-  {"deta": [13,"\u00A0 \u00A0 \u00A0 \u00A0 Furniture "]},
-  {"deta": [389,"\u00A0 \u00A0 \u00A0 \u00A0 \u00A0 \u00A0 \u00A0 \u00A0 Bathroom/sauna "]},
-  {"deta": [385,"\u00A0 \u00A0 \u00A0 \u00A0 \u00A0 \u00A0 \u00A0 \u00A0 Bedroom"]},
-  {"deta": [390,"\u00A0 \u00A0 \u00A0 \u00A0 \u00A0 \u00A0 \u00A0 \u00A0 Children's room "]},
-
-
-
-
-
-
-  {"deta": [4370,"\u00A0 \u00A0 \u00A0 \u00A0 \u00A0 \u00A0 \u00A0 \u00A0 Other"]}
-
+  {
+    "deta": [
+      1,
+      "Manufacturing"
+    ]
+  },
+  {
+    "deta": [
+      19,
+      "        Construction materials"
+    ]
+  },
+  {
+    "deta": [
+      18,
+      "        Electronics and Optics"
+    ]
+  },
+  {
+    "deta": [
+      6,
+      "        Food and Beverage"
+    ]
+  },
+  {
+    "deta": [
+      342,
+      "                Bakery & confectionery products"
+    ]
+  },
+  {
+    "deta": [
+      43,
+      "                Beverages"
+    ]
+  },
+  {
+    "deta": [
+      42,
+      "                Fish & fish products "
+    ]
+  },
+  {
+    "deta": [
+      40,
+      "                Meat & meat products"
+    ]
+  },
+  {
+    "deta": [
+      39,
+      "                Milk & dairy products"
+    ]
+  },
+  {
+    "deta": [
+      437,
+      "                Other"
+    ]
+  },
+  {
+    "deta": [
+      378,
+      "                Sweets & snack food"
+    ]
+  },
+  {
+    "deta": [
+      13,
+      "        Furniture "
+    ]
+  },
+  {
+    "deta": [
+      389,
+      "                Bathroom/sauna "
+    ]
+  },
+  {
+    "deta": [
+      385,
+      "                Bedroom"
+    ]
+  },
+  {
+    "deta": [
+      390,
+      "                Children's room "
+    ]
+  },
+  {
+    "deta": [
+      98,
+      "                Kitchen "
+    ]
+  },
+  {
+    "deta": [
+      101,
+      "                Living room  "
+    ]
+  },
+  {
+    "deta": [
+      392,
+      "                Office"
+    ]
+  },
+  {
+    "deta": [
+      394,
+      "                Other (Furniture)"
+    ]
+  },
+  {
+    "deta": [
+      341,
+      "                Outdoor "
+    ]
+  },
+  {
+    "deta": [
+      99,
+      "                Project furniture"
+    ]
+  },
+  {
+    "deta": [
+      12,
+      "        Machinery"
+    ]
+  },
+  {
+    "deta": [
+      94,
+      "                Machinery components"
+    ]
+  },
+  {
+    "deta": [
+      91,
+      "                Machinery equipment/tools"
+    ]
+  },
+  {
+    "deta": [
+      97,
+      "                Maritime"
+    ]
+  },
+  {
+    "deta": [
+      271,
+      "                        Aluminium and steel workboats"
+    ]
+  },
+  {
+    "deta": [
+      269,
+      "\\u00A0                       Boat/Yacht building"
+    ]
+  },
+  {
+    "deta": [
+      230,
+      "                        Ship repair and conversion"
+    ]
+  },
+  {
+    "deta": [
+      93,
+      "u00A0               Metal structures"
+    ]
+  },
+  {
+    "deta": [
+      508,
+      "                Other"
+    ]
+  },
+  {
+    "deta": [
+      227,
+      "\\u00A0               Repair and maintenance service"
+    ]
+  },
+  {
+    "deta": [
+      11,
+      "        Metalworking"
+    ]
+  },
+  {
+    "deta": [
+      67,
+      "                Construction of metal structures"
+    ]
+  },
+  {
+    "deta": [
+      263,
+      "u00A0               Houses and buildings"
+    ]
+  },
+  {
+    "deta": [
+      267,
+      "                Metal products"
+    ]
+  },
+  {
+    "deta": [
+      542,
+      "                Metal works"
+    ]
+  },
+  {
+    "deta": [
+      75,
+      "                        CNC-machining"
+    ]
+  },
+  {
+    "deta": [
+      62,
+      "                        Forgings, Fasteners"
+    ]
+  },
+  {
+    "deta": [
+      69,
+      "                        Gas, Plasma, Laser cutting"
+    ]
+  },
+  {
+    "deta": [
+      66,
+      "                        MIG, TIG, Aluminum welding"
+    ]
+  },
+  {
+    "deta": [
+      9,
+      "        Plastic and Rubber"
+    ]
+  },
+  {
+    "deta": [
+      54,
+      "                Packaging"
+    ]
+  },
+  {
+    "deta": [
+      556,
+      "                Plastic goods"
+    ]
+  },
+  {
+    "deta": [
+      559,
+      "                Plastic processing technology"
+    ]
+  },
+  {
+    "deta": [
+      55,
+      "                        Blowing"
+    ]
+  },
+  {
+    "deta": [
+      57,
+      "                        Moulding"
+    ]
+  },
+  {
+    "deta": [
+      53,
+      "                        Plastics welding and processing"
+    ]
+  },
+  {
+    "deta": [
+      560,
+      "                Plastic profiles"
+    ]
+  },
+  {
+    "deta": [
+      5,
+      "        Printing "
+    ]
+  },
+  {
+    "deta": [
+      148,
+      "                Advertising"
+    ]
+  },
+  {
+    "deta": [
+      150,
+      "                Book/Periodicals printing"
+    ]
+  },
+  {
+    "deta": [
+      145,
+      "                Labelling and packaging printing"
+    ]
+  },
+  {
+    "deta": [
+      7,
+      "        Textile and Clothing"
+    ]
+  },
+  {
+    "deta": [
+      44,
+      "                Clothing"
+    ]
+  },
+  {
+    "deta": [
+      45,
+      "                Textile"
+    ]
+  },
+  {
+    "deta": [
+      8,
+      "        Wood"
+    ]
+  },
+  {
+    "deta": [
+      337,
+      "                Other (Wood)"
+    ]
+  },
+  {
+    "deta": [
+      51,
+      "                Wooden building materials"
+    ]
+  },
+  {
+    "deta": [
+      47,
+      "                Wooden houses"
+    ]
+  },
+  {
+    "deta": [
+      3,
+      "Other"
+    ]
+  },
+  {
+    "deta": [
+      37,
+      "        Creative industries"
+    ]
+  },
+  {
+    "deta": [
+      29,
+      "        Energy technology"
+    ]
+  },
+  {
+    "deta": [
+      33,
+      "        Environment"
+    ]
+  },
+  {
+    "deta": [
+      2,
+      "Service"
+    ]
+  },
+  {
+    "deta": [
+      25,
+      "        Business services"
+    ]
+  },
+  {
+    "deta": [
+      35,
+      "        Engineering"
+    ]
+  },
+  {
+    "deta": [
+      28,
+      "u00A0       Information Technology and Telecommunications"
+    ]
+  },
+  {
+    "deta": [
+      581,
+      "                Data processing, Web portals, E-marketing"
+    ]
+  },
+  {
+    "deta": [
+      576,
+      "                Programming, Consultancy"
+    ]
+  },
+  {
+    "deta": [
+      121,
+      "                Software, Hardware"
+    ]
+  },
+  {
+    "deta": [
+      122,
+      "                Telecommunications"
+    ]
+  },
+  {
+    "deta": [
+      22,
+      "        Tourism"
+    ]
+  },
+  {
+    "deta": [
+      141,
+      "        Translation services"
+    ]
+  },
+  {
+    "deta": [
+      21,
+      "        Transport and Logistics"
+    ]
+  },
+  {
+    "deta": [
+      111,
+      "                Air"
+    ]
+  },
+  {
+    "deta": [
+      114,
+      "                Rail"
+    ]
+  },
+  {
+    "deta": [
+      112,
+      "                Road"
+    ]
+  },
+  {
+    "deta": [
+      113,
+      "                Water"
+    ]
+  }
 ]
