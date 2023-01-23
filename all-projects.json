@@ -14,68 +14,74 @@
         "Local Storage",
         "React Bootstrap",
         "React Router"
-      ]
+      ],
+      "thumb": "https://i.ibb.co/Y8rkY97/photographer-portfolio.jpg"
     },
     {
       "id": 2,
       "github": "https://github.com/shafik720/Tetris-Game-with-Vanilla-Javascript-Html-Css",
       "liveSite": "https://tetris-russell.netlify.app/",
       "projectName": "Tetris Game",
-      "desc": "I made this famous childhood tetris game with Vanilla Javascript, Html, Css",
+      "desc": "Built a classic Tetris game using vanilla JavaScript, HTML, and CSS. Implemented game logic and controls to allow players to move and rotate blocks, clear lines, and keep score. Utilized CSS to create a smooth and responsive game experience",
       "technology": [
         "Html",
         "Css",
         "Javascript"
-      ]
+      ],
+      "thumb": "https://i.ibb.co/W5CvH0z/tetris-compressed.jpg"
     },
     {
       "id": 3,
       "github": "https://github.com/shafik720/Card-Memory-Game-with-Javascript-Html-Css",
       "liveSite": "https://card-memory-game-shafiq.netlify.app/",
       "projectName": "Card Memory Game ",
-      "desc": "This is a Card Memory Game where user have to memorize pictures and guess them correctly. I made this game with Vanilla Javascript, Html, Css only.",
+      "desc": "Developed a card memory game using vanilla JavaScript, HTML, and CSS. Implemented game logic to randomly generate cards, track player moves and time, and display game result. Utilized CSS and HTML to create the game board and design the cards. Enhanced the game by adding a leaderboard feature to track the highest scores. This project helped me to improve my problem solving skills and my understanding of JavaScript concepts such as event handling and DOM manipulation ",
       "technology": [
         "Html",
         "Css",
         "Javascript"
-      ]
+      ],
+      "thumb": "https://i.ibb.co/qjYttcW/card-memory-game-compressed.jpg"
     },
     {
       "id": 4,
       "github": "https://github.com/shafik720/Project---Math-Game",
       "liveSite": "https://math-game-by-shafiq.netlify.app/",
       "projectName": "Math Game",
-      "desc": "User will play this game by selecting the correct box with the correct result of multiplying 2 numbers showing at the top of the screen. There will be 4 boxes, Only one of them will have right answers only. This game is made with Vanilla Javascript, Html, Css",
+      "desc": "This math game is an interactive and fun way for users to improve their multiplication skills. The game is designed using vanilla JavaScript, HTML, and CSS, and it presents players with two numbers on the screen. Players have to choose the correct multiplication value of these two numbers from a selection of four options displayed in boxes on the screen. The game is fully responsive, user-friendly, and lightweight. The main point of this project was to develop an interactive game using JavaScript, HTML and CSS, and I learned how to create a responsive and user-friendly game while implementing the math concepts.",
       "technology": [
         "Html",
         "Css",
         "Javascript"
-      ]
+      ],
+      "thumb": "https://i.ibb.co/crmGwqv/mathgame.png"
     },
     {
       "id": 5,
       "github": "https://github.com/shafik720/Language-translator-with-Javascript-Html-Css",
       "liveSite": "https://translator-by-shafiq.netlify.app/",
       "projectName": "Language Translator App",
-      "desc": "This site will translate any language to any selected language. For this i have used language api. This site is made with Vanilla Javascript, Html, Css",
+      "desc": "The Language Translator App is a web-based application that allows users to translate text from one language to another. Developed using vanilla JavaScript, HTML, and CSS, this app utilizes an API to provide real-time translations. Users can input text and select the desired language for translation, and the app will instantly display the translated text.",
       "technology": [
         "Html",
         "Css",
         "Javascript",
         "API"
-      ]
+      ],
+      "thumb": "https://i.ibb.co/bPxK4Rc/language-translator-compressed.jpg"
     },
     {
       "id": 6,
       "github": "https://github.com/shafik720/currency-converter",
       "liveSite": "https://currency-converter-by-shafiq.netlify.app/",
       "projectName": "Currency Converter",
-      "desc": "This site will convert from any currency to any currency. The currency rate is always updated via api",
+      "desc": "The Currency Converter App is a web-based application that allows users to convert currency from one denomination to another. Developed using vanilla JavaScript, HTML, and CSS, this app utilizes an API to provide real-time currency exchange rates. Users can input the currency value and select the desired currency to convert to, and the app will instantly display the converted value. \n The main point of this project was to develop a currency converter app using JavaScript, HTML and CSS, and to learn how to integrate an API to provide real-time currency exchange rates. The app is user-friendly and easy to use, making it accessible to users of all levels. The app is also lightweight, which means it can be loaded quickly, providing a smooth experience for the user. \n This app is a great tool for people who travel frequently or for those who want to keep track of currency exchange rates. The app is designed to be simple and easy to use, making it perfect for anyone who needs to convert currency on a regular basis.",
       "technology": [
         "Html",
         "Css",
         "Javascript",
         "API"
-      ]
+      ],
+      "thumb": "https://i.ibb.co/qg9WWmC/currency-converter.png"
     }
   ]
