@@ -6,6 +6,7 @@ const services = [
         plan : 'Basic',
         serviceName : 'Fitness For Beginners',
         short_desc : 'Make a list of your achievements toward your long-term goal and remind.',
+        img : 'https://i.ibb.co/fYH8z2k/services-6.jpg',
         basic_plan : {
             shortDesc : 'Positive pleasure-oriented goals are much more powerful.',
             price : 150 , 
