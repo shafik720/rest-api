@@ -1,46 +1,50 @@
 [
   {
     "serviceId": 1,
-    "plan": "Basic",
     "serviceName": "Fitness For Beginners",
     "short_desc": "Make a list of your achievements toward your long-term goal and remind.",
     "img": "https://i.ibb.co/fYH8z2k/services-6.jpg",
-    "basic_plan": {
-      "shortDesc": "Positive pleasure-oriented goals are much more powerful.",
-      "price": 150,
-      "duration": 3,
-      "hrsPerWeek": 7,
-      "cardio": "yes",
-      "swimmingPool": "no",
-      "snacks": "no",
-      "vipRestroom": "no",
-      "Aerobics": "yes",
-      "crossfit": "yes"
-    },
-    "premium_plan": {
-      "shortDesc": "Use a past defeat as a motivator. Remind yourself you.",
-      "price": 350,
-      "duration": 4,
-      "hrsPerWeek": 16,
-      "cardio": "yes",
-      "swimmingPool": "yes",
-      "snacks": "no",
-      "vipRestroom": "yes",
-      "Aerobics": "yes",
-      "crossfit": "yes"
-    },
-    "platinum_plan": {
-      "shortDesc": "Use a past defeat as a motivator. Remind yourself you.",
-      "price": 450,
-      "duration": 5,
-      "hrsPerWeek": 19,
-      "cardio": "yes",
-      "swimmingPool": "yes",
-      "snacks": "yes",
-      "vipRestroom": "yes",
-      "Aerobics": "yes",
-      "crossfit": "yes"
-    }
+    "allPlan" : [
+      {
+        "shortDesc": "Positive pleasure-oriented goals are much more powerful.",
+        "plan": "Basic",
+        "price": 150,
+        "duration": 3,
+        "hrsPerWeek": 7,
+        "cardio": "yes",
+        "swimmingPool": "no",
+        "snacks": "no",
+        "vipRestroom": "no",
+        "Aerobics": "yes",
+        "crossfit": "yes"
+      }, 
+      {
+        "shortDesc": "Make a list of your achievements toward your long-term",
+        "plan": "Premium",
+        "price": 250,
+        "duration": 4,
+        "hrsPerWeek": 16,
+        "cardio": "yes",
+        "swimmingPool": "yes",
+        "snacks": "no",
+        "vipRestroom": "yes",
+        "Aerobics": "yes",
+        "crossfit": "yes"
+      },
+      {
+        "shortDesc": "Use a past defeat as a motivator. Remind yourself you.",
+        "plan": "Platinum",
+        "price": 350,
+        "duration": 5,
+        "hrsPerWeek": 19,
+        "cardio": "yes",
+        "swimmingPool": "yes",
+        "snacks": "yes",
+        "vipRestroom": "yes",
+        "Aerobics": "yes",
+        "crossfit": "yes"
+      }
+    ]
   },
   {
     "serviceId": 2,
@@ -48,42 +52,47 @@
     "serviceName": "Arm Improvement",
     "short_desc": "Give yourself the power of responsibility the only thing stopping you is yourself",
     "img": "https://i.ibb.co/S0yY5Qw/services-5.jpg",
-    "basic_plan": {
-      "shortDesc": "Positive pleasure-oriented goals are much more powerful.",
-      "price": 180,
-      "duration": 2,
-      "hrsPerWeek": 7,
-      "cardio": "yes",
-      "swimmingPool": "no",
-      "snacks": "no",
-      "vipRestroom": "no",
-      "Aerobics": "yes",
-      "crossfit": "yes"
-    },
-    "premium_plan": {
-      "shortDesc": "Use a past defeat as a motivator. Remind yourself you.",
-      "price": 250,
-      "duration": 4,
-      "hrsPerWeek": 16,
-      "cardio": "yes",
-      "swimmingPool": "yes",
-      "snacks": "no",
-      "vipRestroom": "yes",
-      "Aerobics": "yes",
-      "crossfit": "yes"
-    },
-    "platinum_plan": {
-      "shortDesc": "Use a past defeat as a motivator. Remind yourself you.",
-      "price": 450,
-      "duration": 5,
-      "hrsPerWeek": 19,
-      "cardio": "yes",
-      "swimmingPool": "yes",
-      "snacks": "yes",
-      "vipRestroom": "yes",
-      "Aerobics": "yes",
-      "crossfit": "yes"
-    }
+    "allPlan" : [
+      {
+        "shortDesc": "Positive pleasure-oriented goals are much more powerful.",
+        "plan": "Basic",
+        "price": 170,
+        "duration": 3,
+        "hrsPerWeek": 7,
+        "cardio": "yes",
+        "swimmingPool": "no",
+        "snacks": "no",
+        "vipRestroom": "no",
+        "Aerobics": "yes",
+        "crossfit": "yes"
+      }, 
+      {
+        "shortDesc": "Make a list of your achievements toward your long-term",
+        "plan": "Premium",
+        "price": 250,
+        "duration": 4,
+        "hrsPerWeek": 16,
+        "cardio": "yes",
+        "swimmingPool": "yes",
+        "snacks": "no",
+        "vipRestroom": "yes",
+        "Aerobics": "yes",
+        "crossfit": "yes"
+      },
+      {
+        "shortDesc": "Use a past defeat as a motivator. Remind yourself you.",
+        "plan": "Platinum",
+        "price": 350,
+        "duration": 5,
+        "hrsPerWeek": 19,
+        "cardio": "yes",
+        "swimmingPool": "yes",
+        "snacks": "yes",
+        "vipRestroom": "yes",
+        "Aerobics": "yes",
+        "crossfit": "yes"
+      }
+    ]
   },
   {
     "serviceId": 3,
@@ -91,42 +100,47 @@
     "serviceName": "Private & Group Lessons",
     "short_desc": "Success isn’t really that difficult. There is a significant portion of the population",
     "img": "https://i.ibb.co/TP18RfJ/services-2.jpg",
-    "basic_plan": {
-      "shortDesc": "Positive pleasure-oriented goals are much more powerful.",
-      "price": 120,
-      "duration": 2,
-      "hrsPerWeek": 7,
-      "cardio": "yes",
-      "swimmingPool": "no",
-      "snacks": "no",
-      "vipRestroom": "no",
-      "Aerobics": "yes",
-      "crossfit": "yes"
-    },
-    "premium_plan": {
-      "shortDesc": "Use a past defeat as a motivator. Remind yourself you.",
-      "price": 350,
-      "duration": 4,
-      "hrsPerWeek": 16,
-      "cardio": "yes",
-      "swimmingPool": "yes",
-      "snacks": "no",
-      "vipRestroom": "yes",
-      "Aerobics": "yes",
-      "crossfit": "yes"
-    },
-    "platinum_plan": {
-      "shortDesc": "Use a past defeat as a motivator. Remind yourself you.",
-      "price": 450,
-      "duration": 5,
-      "hrsPerWeek": 19,
-      "cardio": "yes",
-      "swimmingPool": "yes",
-      "snacks": "yes",
-      "vipRestroom": "yes",
-      "Aerobics": "yes",
-      "crossfit": "yes"
-    }
+    "allPlan" : [
+      {
+        "shortDesc": "Positive pleasure-oriented goals are much more powerful.",
+        "plan": "Basic",
+        "price": 120,
+        "duration": 3,
+        "hrsPerWeek": 7,
+        "cardio": "yes",
+        "swimmingPool": "no",
+        "snacks": "no",
+        "vipRestroom": "no",
+        "Aerobics": "yes",
+        "crossfit": "yes"
+      }, 
+      {
+        "shortDesc": "Make a list of your achievements toward your long-term",
+        "plan": "Premium",
+        "price": 220,
+        "duration": 4,
+        "hrsPerWeek": 16,
+        "cardio": "yes",
+        "swimmingPool": "yes",
+        "snacks": "no",
+        "vipRestroom": "yes",
+        "Aerobics": "yes",
+        "crossfit": "yes"
+      },
+      {
+        "shortDesc": "Use a past defeat as a motivator. Remind yourself you.",
+        "plan": "Platinum",
+        "price": 300,
+        "duration": 5,
+        "hrsPerWeek": 19,
+        "cardio": "yes",
+        "swimmingPool": "yes",
+        "snacks": "yes",
+        "vipRestroom": "yes",
+        "Aerobics": "yes",
+        "crossfit": "yes"
+      }
+    ]
   },
   {
     "serviceId": 4,
@@ -134,125 +148,140 @@
     "serviceName": "Yoga Charming",
     "short_desc": "Let success motivate you. Find a picture of what epitomizes success ",
     "img": "https://i.ibb.co/Yp2r8Cz/services-7.jpg",
-    "basic_plan": {
-      "shortDesc": "Positive pleasure-oriented goals are much more powerful.",
-      "price": 100,
-      "duration": 2,
-      "hrsPerWeek": 7,
-      "cardio": "yes",
-      "swimmingPool": "no",
-      "snacks": "no",
-      "vipRestroom": "no",
-      "Aerobics": "yes",
-      "crossfit": "yes"
-    },
-    "premium_plan": {
-      "shortDesc": "Use a past defeat as a motivator. Remind yourself you.",
-      "price": 250,
-      "duration": 4,
-      "hrsPerWeek": 16,
-      "cardio": "yes",
-      "swimmingPool": "yes",
-      "snacks": "no",
-      "vipRestroom": "yes",
-      "Aerobics": "yes",
-      "crossfit": "yes"
-    },
-    "platinum_plan": {
-      "shortDesc": "Use a past defeat as a motivator. Remind yourself you.",
-      "price": 450,
-      "duration": 5,
-      "hrsPerWeek": 19,
-      "cardio": "yes",
-      "swimmingPool": "yes",
-      "snacks": "yes",
-      "vipRestroom": "yes",
-      "Aerobics": "yes",
-      "crossfit": "yes"
-    }
+    "allPlan" : [
+      {
+        "shortDesc": "Positive pleasure-oriented goals are much more powerful.",
+        "plan": "Basic",
+        "price": 170,
+        "duration": 3,
+        "hrsPerWeek": 7,
+        "cardio": "yes",
+        "swimmingPool": "no",
+        "snacks": "no",
+        "vipRestroom": "no",
+        "Aerobics": "yes",
+        "crossfit": "yes"
+      }, 
+      {
+        "shortDesc": "Make a list of your achievements toward your long-term",
+        "plan": "Premium",
+        "price": 250,
+        "duration": 4,
+        "hrsPerWeek": 16,
+        "cardio": "yes",
+        "swimmingPool": "yes",
+        "snacks": "no",
+        "vipRestroom": "yes",
+        "Aerobics": "yes",
+        "crossfit": "yes"
+      },
+      {
+        "shortDesc": "Use a past defeat as a motivator. Remind yourself you.",
+        "plan": "Platinum",
+        "price": 350,
+        "duration": 5,
+        "hrsPerWeek": 19,
+        "cardio": "yes",
+        "swimmingPool": "yes",
+        "snacks": "yes",
+        "vipRestroom": "yes",
+        "Aerobics": "yes",
+        "crossfit": "yes"
+      }
+    ]
   },
   {
     "serviceId": 5,
     "serviceName": "Fitness Core",
     "short_desc": "Reflect and experiment until you find the right combination of motivators for",
     "img": "https://i.ibb.co/StzzHZQ/services-1.jpg",
-    "basic_plan": {
-      "shortDesc": "Positive pleasure-oriented goals are much more powerful.",
-      "price": 200,
-      "duration": 3,
-      "hrsPerWeek": 7,
-      "cardio": "yes",
-      "swimmingPool": "no",
-      "snacks": "no",
-      "vipRestroom": "no",
-      "Aerobics": "yes",
-      "crossfit": "yes"
-    },
-    "premium_plan": {
-      "shortDesc": "Use a past defeat as a motivator. Remind yourself you.",
-      "price": 350,
-      "duration": 4,
-      "hrsPerWeek": 16,
-      "cardio": "yes",
-      "swimmingPool": "yes",
-      "snacks": "no",
-      "vipRestroom": "yes",
-      "Aerobics": "yes",
-      "crossfit": "yes"
-    },
-    "platinum_plan": {
-      "shortDesc": "Use a past defeat as a motivator. Remind yourself you.",
-      "price": 550,
-      "duration": 6,
-      "hrsPerWeek": 19,
-      "cardio": "yes",
-      "swimmingPool": "yes",
-      "snacks": "yes",
-      "vipRestroom": "yes",
-      "Aerobics": "yes",
-      "crossfit": "yes"
-    }
+    "allPlan" : [
+      {
+        "shortDesc": "Positive pleasure-oriented goals are much more powerful.",
+        "plan": "Basic",
+        "price": 350,
+        "duration": 3,
+        "hrsPerWeek": 7,
+        "cardio": "yes",
+        "swimmingPool": "no",
+        "snacks": "no",
+        "vipRestroom": "no",
+        "Aerobics": "yes",
+        "crossfit": "yes"
+      }, 
+      {
+        "shortDesc": "Make a list of your achievements toward your long-term",
+        "plan": "Premium",
+        "price": 450,
+        "duration": 4,
+        "hrsPerWeek": 16,
+        "cardio": "yes",
+        "swimmingPool": "yes",
+        "snacks": "no",
+        "vipRestroom": "yes",
+        "Aerobics": "yes",
+        "crossfit": "yes"
+      },
+      {
+        "shortDesc": "Use a past defeat as a motivator. Remind yourself you.",
+        "plan": "Platinum",
+        "price": 550,
+        "duration": 5,
+        "hrsPerWeek": 19,
+        "cardio": "yes",
+        "swimmingPool": "yes",
+        "snacks": "yes",
+        "vipRestroom": "yes",
+        "Aerobics": "yes",
+        "crossfit": "yes"
+      }
+    ]
   },
   {
     "serviceId": 6,
     "serviceName": "Fitness Restore",
     "short_desc": "Success isn’t really that difficult. There is a significant portion of the population",
     "img": "https://i.ibb.co/T826szx/services-4.jpg",
-    "basic_plan": {
-      "shortDesc": "Positive pleasure-oriented goals are much more powerful.",
-      "price": 200,
-      "duration": 3,
-      "hrsPerWeek": 7,
-      "cardio": "yes",
-      "swimmingPool": "no",
-      "snacks": "no",
-      "vipRestroom": "no",
-      "Aerobics": "yes",
-      "crossfit": "yes"
-    },
-    "premium_plan": {
-      "shortDesc": "Use a past defeat as a motivator. Remind yourself you.",
-      "price": 250,
-      "duration": 4,
-      "hrsPerWeek": 16,
-      "cardio": "yes",
-      "swimmingPool": "yes",
-      "snacks": "no",
-      "vipRestroom": "yes",
-      "Aerobics": "yes",
-      "crossfit": "yes"
-    },
-    "platinum_plan": {
-      "shortDesc": "Use a past defeat as a motivator. Remind yourself you.",
-      "price": 350,
-      "duration": 6,
-      "hrsPerWeek": 19,
-      "cardio": "yes",
-      "swimmingPool": "yes",
-      "snacks": "yes",
-      "vipRestroom": "yes",
-      "Aerobics": "yes",
-      "crossfit": "yes"
-    }
+    "allPlan" : [
+      {
+        "shortDesc": "Positive pleasure-oriented goals are much more powerful.",
+        "plan": "Basic",
+        "price": 380,
+        "duration": 3,
+        "hrsPerWeek": 7,
+        "cardio": "yes",
+        "swimmingPool": "no",
+        "snacks": "no",
+        "vipRestroom": "no",
+        "Aerobics": "yes",
+        "crossfit": "yes"
+      }, 
+      {
+        "shortDesc": "Make a list of your achievements toward your long-term",
+        "plan": "Premium",
+        "price": 450,
+        "duration": 4,
+        "hrsPerWeek": 16,
+        "cardio": "yes",
+        "swimmingPool": "yes",
+        "snacks": "no",
+        "vipRestroom": "yes",
+        "Aerobics": "yes",
+        "crossfit": "yes"
+      },
+      {
+        "shortDesc": "Use a past defeat as a motivator. Remind yourself you.",
+        "plan": "Platinum",
+        "price": 550,
+        "duration": 5,
+        "hrsPerWeek": 19,
+        "cardio": "yes",
+        "swimmingPool": "yes",
+        "snacks": "yes",
+        "vipRestroom": "yes",
+        "Aerobics": "yes",
+        "crossfit": "yes"
+      }
+    ]
   }
 ]
