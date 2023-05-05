@@ -11,12 +11,12 @@
         "price": 150,
         "duration": 3,
         "hrsPerWeek": 7,
-        "cardio": "yes",
-        "swimmingPool": "no",
-        "snacks": "no",
-        "vipRestroom": "no",
-        "Aerobics": "yes",
-        "crossfit": "yes"
+        "cardio": true,
+        "swimmingPool": false,
+        "snacks": false,
+        "vipRestroom": false,
+        "Aerobics": true,
+        "crossfit": true
       }, 
       {
         "shortDesc": "Make a list of your achievements toward your long-term",
@@ -24,12 +24,12 @@
         "price": 250,
         "duration": 4,
         "hrsPerWeek": 16,
-        "cardio": "yes",
-        "swimmingPool": "yes",
-        "snacks": "no",
-        "vipRestroom": "yes",
-        "Aerobics": "yes",
-        "crossfit": "yes"
+        "cardio": true,
+        "swimmingPool": true,
+        "snacks": false,
+        "vipRestroom": true,
+        "Aerobics": true,
+        "crossfit": true
       },
       {
         "shortDesc": "Use a past defeat as a motivator. Remind yourself you.",
@@ -37,12 +37,12 @@
         "price": 350,
         "duration": 5,
         "hrsPerWeek": 19,
-        "cardio": "yes",
-        "swimmingPool": "yes",
-        "snacks": "yes",
-        "vipRestroom": "yes",
-        "Aerobics": "yes",
-        "crossfit": "yes"
+        "cardio": true,
+        "swimmingPool": true,
+        "snacks": true,
+        "vipRestroom": true,
+        "Aerobics": true,
+        "crossfit": true
       }
     ]
   },
@@ -59,12 +59,12 @@
         "price": 170,
         "duration": 3,
         "hrsPerWeek": 7,
-        "cardio": "yes",
-        "swimmingPool": "no",
-        "snacks": "no",
-        "vipRestroom": "no",
-        "Aerobics": "yes",
-        "crossfit": "yes"
+        "cardio": true,
+        "swimmingPool": false,
+        "snacks": false,
+        "vipRestroom": false,
+        "Aerobics": true,
+        "crossfit": true
       }, 
       {
         "shortDesc": "Make a list of your achievements toward your long-term",
@@ -72,12 +72,12 @@
         "price": 250,
         "duration": 4,
         "hrsPerWeek": 16,
-        "cardio": "yes",
-        "swimmingPool": "yes",
-        "snacks": "no",
-        "vipRestroom": "yes",
-        "Aerobics": "yes",
-        "crossfit": "yes"
+        "cardio": true,
+        "swimmingPool": true,
+        "snacks": false,
+        "vipRestroom": true,
+        "Aerobics": true,
+        "crossfit": true
       },
       {
         "shortDesc": "Use a past defeat as a motivator. Remind yourself you.",
@@ -85,12 +85,12 @@
         "price": 350,
         "duration": 5,
         "hrsPerWeek": 19,
-        "cardio": "yes",
-        "swimmingPool": "yes",
-        "snacks": "yes",
-        "vipRestroom": "yes",
-        "Aerobics": "yes",
-        "crossfit": "yes"
+        "cardio": true,
+        "swimmingPool": true,
+        "snacks": true,
+        "vipRestroom": true,
+        "Aerobics": true,
+        "crossfit": true
       }
     ]
   },
@@ -107,12 +107,12 @@
         "price": 120,
         "duration": 3,
         "hrsPerWeek": 7,
-        "cardio": "yes",
-        "swimmingPool": "no",
-        "snacks": "no",
-        "vipRestroom": "no",
-        "Aerobics": "yes",
-        "crossfit": "yes"
+        "cardio": true,
+        "swimmingPool": false,
+        "snacks": false,
+        "vipRestroom": false,
+        "Aerobics": true,
+        "crossfit": true
       }, 
       {
         "shortDesc": "Make a list of your achievements toward your long-term",
@@ -120,12 +120,12 @@
         "price": 220,
         "duration": 4,
         "hrsPerWeek": 16,
-        "cardio": "yes",
-        "swimmingPool": "yes",
-        "snacks": "no",
-        "vipRestroom": "yes",
-        "Aerobics": "yes",
-        "crossfit": "yes"
+        "cardio": true,
+        "swimmingPool": true,
+        "snacks": false,
+        "vipRestroom": true,
+        "Aerobics": true,
+        "crossfit": true
       },
       {
         "shortDesc": "Use a past defeat as a motivator. Remind yourself you.",
@@ -133,12 +133,12 @@
         "price": 300,
         "duration": 5,
         "hrsPerWeek": 19,
-        "cardio": "yes",
-        "swimmingPool": "yes",
-        "snacks": "yes",
-        "vipRestroom": "yes",
-        "Aerobics": "yes",
-        "crossfit": "yes"
+        "cardio": true,
+        "swimmingPool": true,
+        "snacks": true,
+        "vipRestroom": true,
+        "Aerobics": true,
+        "crossfit": true
       }
     ]
   },
@@ -155,12 +155,12 @@
         "price": 170,
         "duration": 3,
         "hrsPerWeek": 7,
-        "cardio": "yes",
-        "swimmingPool": "no",
-        "snacks": "no",
-        "vipRestroom": "no",
-        "Aerobics": "yes",
-        "crossfit": "yes"
+        "cardio": true,
+        "swimmingPool": false,
+        "snacks": false,
+        "vipRestroom": false,
+        "Aerobics": true,
+        "crossfit": true
       }, 
       {
         "shortDesc": "Make a list of your achievements toward your long-term",
@@ -168,12 +168,12 @@
         "price": 250,
         "duration": 4,
         "hrsPerWeek": 16,
-        "cardio": "yes",
-        "swimmingPool": "yes",
-        "snacks": "no",
-        "vipRestroom": "yes",
-        "Aerobics": "yes",
-        "crossfit": "yes"
+        "cardio": true,
+        "swimmingPool": true,
+        "snacks": false,
+        "vipRestroom": true,
+        "Aerobics": true,
+        "crossfit": true
       },
       {
         "shortDesc": "Use a past defeat as a motivator. Remind yourself you.",
@@ -181,12 +181,12 @@
         "price": 350,
         "duration": 5,
         "hrsPerWeek": 19,
-        "cardio": "yes",
-        "swimmingPool": "yes",
-        "snacks": "yes",
-        "vipRestroom": "yes",
-        "Aerobics": "yes",
-        "crossfit": "yes"
+        "cardio": true,
+        "swimmingPool": true,
+        "snacks": true,
+        "vipRestroom": true,
+        "Aerobics": true,
+        "crossfit": true
       }
     ]
   },
@@ -202,12 +202,12 @@
         "price": 350,
         "duration": 3,
         "hrsPerWeek": 7,
-        "cardio": "yes",
-        "swimmingPool": "no",
-        "snacks": "no",
-        "vipRestroom": "no",
-        "Aerobics": "yes",
-        "crossfit": "yes"
+        "cardio": true,
+        "swimmingPool": false,
+        "snacks": false,
+        "vipRestroom": false,
+        "Aerobics": true,
+        "crossfit": true
       }, 
       {
         "shortDesc": "Make a list of your achievements toward your long-term",
@@ -215,12 +215,12 @@
         "price": 450,
         "duration": 4,
         "hrsPerWeek": 16,
-        "cardio": "yes",
-        "swimmingPool": "yes",
-        "snacks": "no",
-        "vipRestroom": "yes",
-        "Aerobics": "yes",
-        "crossfit": "yes"
+        "cardio": true,
+        "swimmingPool": true,
+        "snacks": false,
+        "vipRestroom": true,
+        "Aerobics": true,
+        "crossfit": true
       },
       {
         "shortDesc": "Use a past defeat as a motivator. Remind yourself you.",
@@ -228,12 +228,12 @@
         "price": 550,
         "duration": 5,
         "hrsPerWeek": 19,
-        "cardio": "yes",
-        "swimmingPool": "yes",
-        "snacks": "yes",
-        "vipRestroom": "yes",
-        "Aerobics": "yes",
-        "crossfit": "yes"
+        "cardio": true,
+        "swimmingPool": true,
+        "snacks": true,
+        "vipRestroom": true,
+        "Aerobics": true,
+        "crossfit": true
       }
     ]
   },
@@ -249,12 +249,12 @@
         "price": 380,
         "duration": 3,
         "hrsPerWeek": 7,
-        "cardio": "yes",
-        "swimmingPool": "no",
-        "snacks": "no",
-        "vipRestroom": "no",
-        "Aerobics": "yes",
-        "crossfit": "yes"
+        "cardio": true,
+        "swimmingPool": false,
+        "snacks": false,
+        "vipRestroom": false,
+        "Aerobics": true,
+        "crossfit": true
       }, 
       {
         "shortDesc": "Make a list of your achievements toward your long-term",
@@ -262,12 +262,12 @@
         "price": 450,
         "duration": 4,
         "hrsPerWeek": 16,
-        "cardio": "yes",
-        "swimmingPool": "yes",
-        "snacks": "no",
-        "vipRestroom": "yes",
-        "Aerobics": "yes",
-        "crossfit": "yes"
+        "cardio": true,
+        "swimmingPool": true,
+        "snacks": false,
+        "vipRestroom": true,
+        "Aerobics": true,
+        "crossfit": true
       },
       {
         "shortDesc": "Use a past defeat as a motivator. Remind yourself you.",
@@ -275,12 +275,12 @@
         "price": 550,
         "duration": 5,
         "hrsPerWeek": 19,
-        "cardio": "yes",
-        "swimmingPool": "yes",
-        "snacks": "yes",
-        "vipRestroom": "yes",
-        "Aerobics": "yes",
-        "crossfit": "yes"
+        "cardio": true,
+        "swimmingPool": true,
+        "snacks": true,
+        "vipRestroom": true,
+        "Aerobics": true,
+        "crossfit": true
       }
     ]
   }
